@@ -46,4 +46,7 @@ function displayWeather(data) {
 }
 
 // Call the function when page loads
-getWeather('Krishnagirigi checkout');
+// Final clean code
+function getWeather(city) {
+   console.log(city);
+}
